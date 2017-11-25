@@ -34,7 +34,9 @@ __all__ = ['nodes', 'edges', 'degree', 'degree_histogram', 'neighbors',
            'non_edges', 'common_neighbors', 'is_weighted',
            'is_negatively_weighted', 'is_empty',
            'selfloop_edges', 'nodes_with_selfloops', 'number_of_selfloops',
-           'degree_sequence', 'min_degree', 'max_degree', 'average_degree', 'number_of_nodes_of_degree_k', 'number_of_leaves', 'number_of_min_degree_nodes', 'number_of_max_degree_nodes',
+           'degree_sequence', 'min_degree', 'max_degree', 'average_degree',
+           'number_of_nodes_of_degree_k', 'number_of_leaves',
+           'number_of_min_degree_nodes', 'number_of_max_degree_nodes',
            ]
 
 
